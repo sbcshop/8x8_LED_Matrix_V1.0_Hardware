@@ -1,1 +1,2 @@
-# 8x8_LED_Matrix_V1.0_Hardware
+# 8x8 LED Matrix
+
